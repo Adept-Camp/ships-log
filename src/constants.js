@@ -9,7 +9,7 @@ export const GITHUB_URL = "https://github.com/ProjectOpenSea/ships-log"
 export const DEFAULT_DECIMALS = 18
 export let web3Provider = typeof web3 !== 'undefined'
   ? window.web3.currentProvider
-  : new Web3.providers.HttpProvider('https://mainnet.infura.io')
+  : new Web3.providers.HttpProvider('https://mainnet.infura.io/v3/9afe2a08386146b9b2b833ba4b51e90a')
 
 // Replace this with Redux for more complex logic
 const networkCallbacks = []
