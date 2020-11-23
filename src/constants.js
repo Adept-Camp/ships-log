@@ -1,3 +1,9 @@
+require('dotenv').config()
+// const PrivateKeyProvider = require('truffle-privatekey-provider');
+// const privateKey = process.env.ESD_PRIVATE_KEY;
+const infuraId = process.env.INFURA_KEY;
+const etherscanKey = process.env.ESD_ETHERSCAN_KEY;
+
 import * as Web3 from 'web3'
 import BigNumber from 'bignumber.js'
 import { PortisProvider } from 'portis'
@@ -9,8 +15,8 @@ export const GITHUB_URL = "https://github.com/ProjectOpenSea/ships-log"
 export const DEFAULT_DECIMALS = 18
 export let web3Provider = typeof web3 !== 'undefined'
   ? window.web3.currentProvider
-  : new Web3.providers.HttpProvider('https://mainnet.infura.io/v3/9afe2a08386146b9b2b833ba4b51e90a')
-
+ // : new Web3.providers.HttpProvider('https://mainnet.infura.io/v3/9afe2a08386146b9b2b833ba4b51e90a')
+ : new Web3.providers.HttpProvider('https://mainnet.infura.io/v3/' + infuraId)
 // Replace this with Redux for more complex logic
 const networkCallbacks = []
 export const onNetworkUpdate = (callback) => {
