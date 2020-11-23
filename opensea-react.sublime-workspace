@@ -1,0 +1,367 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 1523,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "INFURA_KEY",
+			"file": ".env",
+			"file_size": 0,
+			"file_write_time": 132506030393276375,
+			"settings":
+			{
+				"buffer_size": 10,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": ".next\n.idea\nnode_modules\nbundle.js\n*.iml\ngeth.log\ndist/\nfirebase-debug.log\nnewrelic_agent.log\n.env\n*.DS_Store\n.node-xmlhttprequest*\n.*.swp\nenv\n",
+			"file": ".gitignore",
+			"file_size": 152,
+			"file_write_time": 132505991240675616,
+			"settings":
+			{
+				"buffer_size": 143,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/constants.js",
+			"settings":
+			{
+				"buffer_size": 2368,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"solid",
+				"Set Syntax: Solidity"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"min",
+				"Minify Javascript/CSS to file"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Package Control",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 124.0,
+		"history":
+		[
+			"node"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Duncan/Documents/GitHub/ships-log",
+		"/C/Users/Duncan/Documents/GitHub/ships-log/build",
+		"/C/Users/Duncan/Documents/GitHub/ships-log/src",
+		"/C/Users/Duncan/Documents/GitHub/ships-log/src/components"
+	],
+	"file_history":
+	[
+		"/C/Users/Duncan/Documents/GitHub/zombies/truffle-config.js",
+		"/C/Users/Duncan/Documents/GitHub/zombies/contracts/ZombieFactory.sol",
+		"/C/Users/Duncan/Documents/GitHub/zombies/build/contracts/ZombieFactory.json",
+		"/C/Users/Duncan/Documents/GitHub/zombies/migrations/1_initial_migration.js",
+		"/C/Users/Duncan/Documents/based/onbased/off---blue.com/js/appe75f.js",
+		"/C/Users/Duncan/Documents/based/onbased/off---blue.com/index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1523,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1029,
+								1029
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": ".env",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 143,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								142,
+								142
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/constants.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2368,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								888,
+								888
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "opensea-react.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 305.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,12 +1,12 @@
+import * as Web3 from 'web3'
+import BigNumber from 'bignumber.js'
+import { PortisProvider } from 'portis'
+
 require('dotenv').config()
 // const PrivateKeyProvider = require('truffle-privatekey-provider');
 // const privateKey = process.env.ESD_PRIVATE_KEY;
 const infuraId = process.env.INFURA_KEY;
 const etherscanKey = process.env.ESD_ETHERSCAN_KEY;
-
-import * as Web3 from 'web3'
-import BigNumber from 'bignumber.js'
-import { PortisProvider } from 'portis'
 
 export const GOOGLE_ANALYTICS_ID = 'UA-111688253-4'
 export const OPENSEA_URL = "https://opensea.io"
