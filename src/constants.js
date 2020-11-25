@@ -6,12 +6,12 @@ require('dotenv').config()
 // const PrivateKeyProvider = require('truffle-privatekey-provider');
 // const privateKey = process.env.ESD_PRIVATE_KEY;
 const infuraId = process.env.INFURA_KEY;
-const etherscanKey = process.env.ESD_ETHERSCAN_KEY;
+//const etherscanKey = process.env.ESD_ETHERSCAN_KEY;
 
 export const GOOGLE_ANALYTICS_ID = 'UA-111688253-4'
 export const OPENSEA_URL = "https://opensea.io"
 export const OPENSEA_JS_URL = "https://github.com/ProjectOpenSea/opensea-js"
-export const GITHUB_URL = "https://github.com/ProjectOpenSea/ships-log"
+export const GITHUB_URL = "https://adept.camp"
 export const DEFAULT_DECIMALS = 18
 export let web3Provider = typeof web3 !== 'undefined'
   ? window.web3.currentProvider

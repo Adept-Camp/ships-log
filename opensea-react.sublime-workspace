@@ -12,14 +12,12 @@
 			"settings":
 			{
 				"buffer_size": 1523,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"contents": "INFURA_KEY",
 			"file": ".env",
-			"file_size": 0,
-			"file_write_time": 132506030393276375,
 			"settings":
 			{
 				"buffer_size": 10,
@@ -28,13 +26,11 @@
 			}
 		},
 		{
-			"contents": ".next\n.idea\nnode_modules\nbundle.js\n*.iml\ngeth.log\ndist/\nfirebase-debug.log\nnewrelic_agent.log\n.env\n*.DS_Store\n.node-xmlhttprequest*\n.*.swp\nenv\n",
 			"file": ".gitignore",
-			"file_size": 152,
-			"file_write_time": 132505991240675616,
 			"settings":
 			{
 				"buffer_size": 143,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
@@ -43,6 +39,24 @@
 			"settings":
 			{
 				"buffer_size": 2368,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/components/App/index.js",
+			"settings":
+			{
+				"buffer_size": 1762,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/components/Account/index.js",
+			"settings":
+			{
+				"buffer_size": 1004,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -115,8 +129,14 @@
 	[
 		"/C/Users/Duncan/Documents/GitHub/ships-log",
 		"/C/Users/Duncan/Documents/GitHub/ships-log/build",
+		"/C/Users/Duncan/Documents/GitHub/ships-log/public",
 		"/C/Users/Duncan/Documents/GitHub/ships-log/src",
-		"/C/Users/Duncan/Documents/GitHub/ships-log/src/components"
+		"/C/Users/Duncan/Documents/GitHub/ships-log/src/components",
+		"/C/Users/Duncan/Documents/GitHub/ships-log/src/components/Account",
+		"/C/Users/Duncan/Documents/GitHub/ships-log/src/components/App",
+		"/C/Users/Duncan/Documents/GitHub/ships-log/src/components/common",
+		"/C/Users/Duncan/Documents/GitHub/ships-log/src/components/Log",
+		"/C/Users/Duncan/Documents/GitHub/ships-log/src/components/Order"
 	],
 	"file_history":
 	[
@@ -160,7 +180,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -190,7 +210,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -218,7 +238,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -246,7 +266,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -262,8 +282,68 @@
 						"selection":
 						[
 							[
-								888,
-								888
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 108.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/components/App/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1762,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								885,
+								885
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 216.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/components/Account/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1004,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
 							]
 						],
 						"settings":
@@ -276,7 +356,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 4,
 					"type": "text"
 				}
 			]
