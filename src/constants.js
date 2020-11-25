@@ -1,3 +1,7 @@
+var ghpages = require('gh-pages');
+ 
+ghpages.publish('build', function(err) {});
+
 import * as Web3 from 'web3'
 import BigNumber from 'bignumber.js'
 import { PortisProvider } from 'portis'
